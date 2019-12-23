@@ -1,5 +1,5 @@
 # Operating System Security
-## MS Windows 10 Security
+## __MS Windows 10 Security__
 __Objectives__
 To secure MS Windows 10 OS
 
@@ -28,7 +28,10 @@ __Report__
 export ไฟล์เป็น pdf และ upload เข้า google classroom
 
 
- 
+ ## __MS Window penetration tools__
+
+__instructions__
+1. Install metasploit on MS window follows [link](https://www.youtube.com/watch?v=gLaOaYAOZt4)
 
 
 
