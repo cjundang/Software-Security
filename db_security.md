@@ -57,4 +57,7 @@ __User Management__
    - table_priv
    - columns_priv
    - procs_priv
-   more in for [here](https://www.youtube.com/watch?v=67wBO_7Vadc)
+   
+more in for [here](https://www.youtube.com/watch?v=67wBO_7Vadc)
+
+อยากเชี่ยวชาญ MySQL ดูนี้ [More Mysql](https://youtu.be/E0CNTcfteTU)
